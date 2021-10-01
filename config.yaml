@@ -1,0 +1,16 @@
+elasticsearch_host: localhost
+systemd_src: elastic-timeout.conf
+
+kibana_host: localhost
+
+logstash_conf: logstash.conf
+
+nagios_user: nagiosadmin
+nagios_password: password
+
+domain: qkrchernandez-tip
+owner: qkrchernandez-tip
+group: qkrchernandez-tip
+index_html: index.html
+ubuntu_src: qkrchernandez-tip-ubuntu.conf
+centos_src: qkrchernandez-tip-centos.conf
